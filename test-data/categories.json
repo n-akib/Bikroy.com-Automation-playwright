@@ -1,0 +1,28 @@
+{
+  "allCategories": [
+    { "name": "Vehicles", "urlPath": "/vehicles" },
+    { "name": "Property", "urlPath": "/real-estate" },
+    { "name": "Phones & Tablets", "urlPath": "/mobile-phones-tablets" },
+    { "name": "Electronics", "urlPath": "/electronics" },
+    { "name": "Home, Furniture & Appliances", "urlPath": "/home-garden" },
+    { "name": "Fashion", "urlPath": "/fashion-and-beauty" },
+    { "name": "Beauty & Personal Care", "urlPath": "/health-and-beauty" },
+    { "name": "Services", "urlPath": "/services" },
+    { "name": "Repair & Construction", "urlPath": "/repair-and-construction" },
+    { "name": "Commercial Equipment & Tools", "urlPath": "/office-and-commercial-equipment-tools" },
+    { "name": "Leisure & Activities", "urlPath": "/hobbies-art-sport" },
+    { "name": "Babies & Kids", "urlPath": "/babies-and-kids" },
+    { "name": "Food, Agriculture & Farming", "urlPath": "/agriculture-and-foodstuff" },
+    { "name": "Animals & Pets", "urlPath": "/animals-and-pets" },
+    { "name": "Jobs", "urlPath": "/jobs" },
+    { "name": "Seeking Work - CVs", "urlPath": "/seeking-work-cvs" },
+    { "name": "Business & Industry", "urlPath": "/business-and-industry" }
+  ],
+  "sampleNavigation": [
+    { "name": "Vehicles", "urlPath": "/vehicles" },
+    { "name": "Property", "urlPath": "/real-estate" },
+    { "name": "Phones & Tablets", "urlPath": "/mobile-phones-tablets" },
+    { "name": "Electronics", "urlPath": "/electronics" },
+    { "name": "Jobs", "urlPath": "/jobs" }
+  ]
+}
